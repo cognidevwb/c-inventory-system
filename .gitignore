@@ -1,0 +1,7 @@
+# build output
+*.o
+invmgr
+# runtime data (created by the program)
+*.DAT
+*.BAK
+AUDIT.LOG

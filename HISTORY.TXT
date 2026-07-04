@@ -1,0 +1,12 @@
+INVMGR change history — newest first. Keep it short.
+
+2003-06  Site config file (INVMGR.CFG): company on report headers,
+         REPORT_WIDTH for the wide printer in receiving, DATA_DIR.
+2002-11  AUDIT.LOG — one text line per stock movement. Auditors happy.
+2002-03  Purchase orders (raise/receive, PORDERS.DAT). One SKU per PO.
+2001-09  Supplier master file (SUPPLIER.DAT) + sub-menu. Item vendor
+         field kept as-is; linking it to supplier codes = someday.
+1998-04  "Order up to twice the reorder point" house rule on the
+         suggestions report.
+1997-02  Money moved to integer cents after the float rounding incident.
+1996-08  First version: item master, receive/issue, three reports.

@@ -5,5 +5,8 @@
 void rpt_stock_listing(void);
 void rpt_reorder_list(void);
 void rpt_valuation(void);
+void rpt_supplier_listing(void);
+void rpt_open_pos(void);
+void rpt_po_suggest(void);
 
 #endif
